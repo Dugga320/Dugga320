@@ -1,16 +1,14 @@
-## Hi there 👋
+#Lowie De Milt
+I am a profesional amateur at coding, i am working on multiple projects with a friend!
 
-<!--
-**Dugga320/Dugga320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
+- C#
+- Python 
+- Blazor
+- Arduino
 
-Here are some ideas to get you started:
+Contact
+- Location: Sint-Eloois-Vijve
+- Phone: +32 0468 50 91 15
+- Email: lowiedemilt@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
